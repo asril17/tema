@@ -1,3 +1,3 @@
 # tema
 
-# Instalasi
+// Instalasi
